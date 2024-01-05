@@ -1,0 +1,17 @@
+.blogss{
+    margin-top: 40px;
+}
+.para{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    margin-top: 10px;
+    
+}
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
